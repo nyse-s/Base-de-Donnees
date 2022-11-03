@@ -5,7 +5,9 @@ team is composed of Sény SORET (project leader), Hugo LESAGE, Shirine MANUEL DE
 CONDINGUY and Loic TEGUIA are in charge of website settings.
 After defining the project framework and his expectations, we only have to look at the creation
 of the database.
+
 Thus, during this report, we will have to carry out :
+
 A first conceptual study that have the aim to realize the data conceptual model :
 
 * Creation of the data dictionary gathering all of the columns with their
