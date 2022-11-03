@@ -1,8 +1,7 @@
 # Base de Données
 
 We are a team of researcher, members of the IT Department mandated by a travel agency. Our
-team is composed of Sény SORET (project leader), Hugo LESAGE, Shirine MANUEL DE
-CONDINGUY and Loic TEGUIA are in charge of website settings.
+team is charged of website settings.
 After defining the project framework and his expectations, we only have to look at the creation
 of the database.
 
